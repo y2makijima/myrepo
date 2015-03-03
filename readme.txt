@@ -1,1 +1,1 @@
-ようこそGitHub2
+ようこそGitHub
