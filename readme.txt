@@ -1,1 +1,1 @@
-﻿ようこそGitHub5
+ようこそGitHub5
